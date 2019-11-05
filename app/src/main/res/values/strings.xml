@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">La casa del Libro</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="main_title">Llibres més venuts</string>
+    <string name="main_subtitle">Llista amb els llibres que més s\'han venut</string>
+    <string name="image_desc">Prefered books</string>
+</resources>
